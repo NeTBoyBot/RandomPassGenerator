@@ -74,7 +74,7 @@ namespace RandomPassGenerator
         private void button4_Click(object sender, EventArgs e)
         {
             Clipboard.SetDataObject(richTextBox1.Text);
-            MessageBox.Show("Пароль был скопирован в буфер обмена!");
+            
         }
         
     }
