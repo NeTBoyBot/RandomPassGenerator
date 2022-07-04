@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomPassGenerator", "RandomPassGenerator\RandomPassGenerator.csproj", "{36F12B57-36EA-4D49-88EA-F39898E28087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F12B57-36EA-4D49-88EA-F39898E28087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F12B57-36EA-4D49-88EA-F39898E28087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F12B57-36EA-4D49-88EA-F39898E28087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F12B57-36EA-4D49-88EA-F39898E28087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71DD9925-C24E-46F7-8EE1-17622974EF2D}
+	EndGlobalSection
+EndGlobal
